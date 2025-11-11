@@ -36,8 +36,6 @@ A customer-centric dashboard that tracks performance, retention, and profitabili
 - **Tableau Desktop / Tableau Public** – for dashboard creation  
 - **Excel / CSV** – as data source  
 - **Microsoft Excel / Python (optional)** – for data cleaning  
-- **Modern BI design principles** – for layout and visual storytelling  
-
 ---
 
 ## Project Development Phases  
